@@ -2,9 +2,9 @@
 #### I'm a software architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer. 
 ![I'm a software architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I tried specializing once, but got distracted by a side project, and then I got pulled into a data pipeline engineering project, and now I just try to be that guy you call when something critical is needed and you need to throw a senior developer on the project to build the processes and solve the business problems.
+I tried specializing once, but got distracted by a side project. I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark.  
 
-Skills: DB: SQL Server/CosmosDB | BACKEND: .Net Core/Golang | FRONTEND: Angular/React
+Skills: SQL Server/CosmosDB | .Net Core/Golang | Angular/React
 
 - 🔭 I’m currently working on An app using .Net Core/Cosmos DB, and a data pipeline for an analytics project using Databricks/Pyspark.  
 - 🌱 I’m currently learning CosmosDB server side sprocs. 
