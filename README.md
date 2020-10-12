@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Thomas. 
 #### I'm a software architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer. 
-!I'm a software architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer. 
 
 I tried specializing once, but got distracted by a side project. I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark.  
 
