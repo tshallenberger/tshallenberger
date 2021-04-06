@@ -5,7 +5,7 @@ I tried specializing once, but got distracted by a side project. I guess I'm tec
 
 Favorite saying: `Weeks of coding can save you days of planning.`
 
-Skills: SQL Server/CosmosDB | .Net Core/Golang | Angular/React
+Skills: SQL Server/MongoDB/CosmosDB | .Net Core/Nest.js/Golang | Angular/React/Redux 
 
 - 🔭 I’m currently working on an app using .Net Core/SQL Server, as well as another backend using NestJS and MongoDB.  
 - 🌱 I’m currently learning NestJS, and re-learning React/Redux, with a dash of Tailwind CSS. 
