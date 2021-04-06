@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Thomas. 
 #### I'm a software/systems architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer. 
 
-I tried specializing once, but got distracted by a side project. I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. 
+I tried specializing once, but got distracted by a side project. I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. I'm currently investigating a NestJS/MongoDB/React/Redux stack to serve as a template application for future projects.
 
 Favorite saying: `Weeks of coding can save you days of planning.`
 
 Skills: SQL Server/CosmosDB | .Net Core/Golang | Angular/React
 
-- 🔭 I’m currently working on An app using .Net Core/Cosmos DB, and a data pipeline for an analytics project using Databricks/Pyspark.  
-- 🌱 I’m currently learning CosmosDB server side sprocs. 
+- 🔭 I’m currently working on an app using .Net Core/SQL Server, as well as another backend using NestJS and MongoDB.  
+- 🌱 I’m currently learning NestJS, and re-learning React/Redux, with a dash of Tailwind CSS. 
 - ⚡ Fun fact: I love powerlifting. Specifically deadlifting.  
 
 
