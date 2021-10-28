@@ -22,4 +22,7 @@ Skills: SQL Server/MongoDB/CosmosDB | .Net Core/Nest.js/Golang | Angular/React/R
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valkn0t)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/valkn0t)  
+![Profile views](https://gpvc.arturio.dev/valkn0t)
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/valkn0t/valkn0t/blob/master/devcard.svg" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
+
