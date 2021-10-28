@@ -3,7 +3,7 @@
 ___
 I tried specializing once, but got distracted by a side project. 
 
-I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. 
+I guess I'm technically a full stack web app developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. I've also built integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
 
 
 - 🔭 I’m currently working on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production. 
