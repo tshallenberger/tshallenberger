@@ -47,5 +47,4 @@ ___
 
 ![Profile views](https://gpvc.arturio.dev/valkn0t)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/valkn0t/valkn0t/blob/master/devcard.svg" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
-
+<a href="https://app.daily.dev/valkn0t"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=qbe" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
