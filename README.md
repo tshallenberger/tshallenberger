@@ -6,8 +6,9 @@
 
 I'm technically a cloud solutions architect and full stack developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. I've also built integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
 
-- 🔭 I’m currently working on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production.
-- 🌱 I’m currently using NestJS/(MongoDB|PostgreSQL)/React/Redux for our newer services, and .Net Core/SQL Server for our older service.
+- 🔭 Currently, I'm Dockerizing/containerizing a forked version of Superset for deployment to RHEL8 servers, in order to provide visualization tools to teams at Yahoo
+- 🔭 Previously, I've worked on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production.
+- 🌱 In the past I've used NestJS/(MongoDB|PostgreSQL)/React/Redux for the newer services, and .Net Core/SQL Server for older services.
 - ⚡ Fun fact: I love powerlifting. Specifically deadlifting.
 
 - 📄 **Favorite IDE:** VS Code
@@ -15,9 +16,9 @@ I'm technically a cloud solutions architect and full stack developer, but I've b
 - ⚛ **Favorite frontend:** React/Redux
 - ⚛ **What I'm Exploring:** GraphQL
 
-I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I'm currently using all of these in my startup. **I just wish Stoplight was less expensive to upgrade...**
+I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I'm actively used all of these in my previous startup. **I just wish Stoplight was less expensive to upgrade...**
 
-Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep Templates** for cloud resource infra-as-code, and integrating Stoplight into our CI for external API modeling/docs.
+Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep Templates** for cloud resource infra-as-code, and integrating Stoplight into my previous CI for external API modeling/docs.
 
 Favorite saying: `Weeks of coding can save you days of planning.`
 
