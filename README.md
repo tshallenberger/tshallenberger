@@ -36,7 +36,7 @@ Favorite saying: `Weeks of coding can save you days of planning.`
 ---
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br />
   <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank">
