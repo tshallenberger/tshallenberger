@@ -35,7 +35,7 @@ Favorite saying: `Weeks of coding can save you days of planning.`
 
 ---
 
-<details>
+
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br />
   <p align="left">
@@ -192,7 +192,7 @@ Favorite saying: `Weeks of coding can save you days of planning.`
       />
     </a>
   </p>
-</details>
+
 
 ---
 
