@@ -20,8 +20,6 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
 
 Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep Templates** for cloud resource infra-as-code, and integrating Stoplight into my previous CI for external API modeling/docs.
 
-Favorite saying: `Weeks of coding can save you days of planning.`
-
 **Skills (Old)**: SQL Server/MongoDB/CosmosDB | .Net Core/Nest.js/Golang | Angular/React/Redux
 
 **Skills/Stacks/Tooling (Current):**
