@@ -2,32 +2,38 @@
 
 ## What I Do
 
-Short version: I'm a dev on the Yahoo Edge Network Data Analytics team.
+### Short version
 
-Long version: I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of network telemetry data coming off Yahoo's Edge backbone. These solutions include:
+**I'm a dev on the Yahoo Edge Network Data Analytics team.**
+
+### Long version
+
+I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of telemetry coming off Yahoo's Edge Network. These solutions include:
 
 - Leveraging Hadoop Data File Storage for raw data sets
-- Running ETL pipelines written with Oozie/Pig/Java UDFs
-- Loading data into HBase/Druid
-- Building/deploying internal forks of open source visualization tools like Superset/Turnilo. <-- this is what I primarily work on
+- Building/running ETL pipelines written with Oozie/Pig/Java UDFs
+- Loading processed/enriched data into HBase/Druid
+- **Building/deploying internal forks of open source data visualization tools like Apache Superset/Turnilo.***
+
+**this is what I'm actively working on.*
 
 ## What I've Done
 
-- Aug 2015 - May 2018
-  - Developed secure web app for processing military defense contract proposals/ammendments through multi-phase approve/reject routes and stages.
-  - Revamped core team development process, implementing Agile SOPs, Git, and CI/CD pipelines to increase feature throughput.
-- May 2018 - Dec 2020
-  - Worked on a SQLServer/C#/.Net Core/Angular 4 web application for license/order management.
-  - Built an internal web tool in React/Redux to interface with the internal task management system.
-  - Led development of big data ETL pipeline consuming terabytes of licensing telemetry from an Azure Event Hub using Databricks™/Apache Spark/Scala/PySpark, warehousing enriched data in SQL fact tables for Tableau/PowerBI reports.
-- Jan 2021 - Oct 2022
+- **Oct 2022 - Present**
+  - Modernized our teams data visualization tool build/deployment pipelines with Docker
+- **Jan 2021 - Oct 2022**
   - Built web API (SQLServer/C#/.Net Core) for manufacturing service, allowing manufacturers to import orders, generating parts/production files and tracking through the production process.
   - Built web API (MongoDB/Typescript/NestJS) for order service, integrating with our Shopify app and allowing 3PS’s to send orders directly to our platform.
   - Built web portal (React/Redux) for managing tenants, orders, parts, and manufacturing processes
   - Leveraged CI/CD deployment pipelines (Azure DevOps) to reduce lag time on feature release.
   - Leveraged event driven architecture to integrate with external authentication, shipping, and order providers
-
-## Stuff I've Used
+- **May 2018 - Dec 2020**
+  - Worked on a SQLServer/C#/.Net Core/Angular 4 web application for license/order management.
+  - Built an internal web tool in React/Redux to interface with the internal task management system.
+  - Led development of big data ETL pipeline consuming terabytes of licensing telemetry from an Azure Event Hub using Databricks™/Apache Spark/Scala/PySpark, warehousing enriched data in SQL fact tables for Tableau/PowerBI reports.
+- **Aug 2015 - May 2018**
+  - Developed secure web app for processing military defense contract proposals/ammendments through multi-phase approve/reject routes and stages.
+  - Revamped core team development process, implementing Agile SOPs, Git, and CI/CD pipelines to increase feature throughput.
 
 ---
 
@@ -41,22 +47,17 @@ I'm technically a cloud solutions architect and full stack developer, but I've b
 - 📄 **Favorite IDE:** VS Code
 - 🍒 **Favorite backend:** NestJS
 - ⚛ **Favorite frontend:** React/Redux
-- ⚛ **What I'm Exploring:** GraphQL
+- ⚛ **What I'm Exploring:** DevContainers
 
-I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I'm actively used all of these in my previous startup.
+I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I've actively used all of these in my previous startup.
 
-Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep Templates** for cloud resource infra-as-code, and integrating Stoplight into my previous CI for external API modeling/docs.
+## Skills/Tooling (Current)
 
-**Skills (Old)**: SQL Server/MongoDB/CosmosDB | .Net Core/Nest.js/Golang | Angular/React/Redux
-
-**Skills/Stacks/Tooling (Current):**
-
-- Azure Solutions Architect
-- NestJS/(MongoDB|PostgreSQL)/React/Redux
-- Stoplight
-- Postman
-- Auth0
-- LaunchDarkly
+- Docker
+- Apache Superset
+- Flask
+- Apache Druid
+- Turnilo
 
 ---
 
@@ -104,6 +105,7 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
         height="40"
       />
     </a>
+    <br/>
     <a href="https://azure.microsoft.com/en-in/" target="_blank">
       <img
         src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -144,6 +146,7 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
         height="40"
       />
     </a>
+    <br/>
     <a href="https://graphql.org" target="_blank">
       <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -184,6 +187,7 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
         height="40"
       />
     </a>
+    <br/>
     <a href="https://www.cypress.io" target="_blank">
       <img
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
@@ -224,12 +228,12 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/tshal0/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/tshal0)
+<!-- ![Profile views](https://gpvc.arturio.dev/tshal0) -->
 
 <a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=586" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
