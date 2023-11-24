@@ -1,6 +1,33 @@
-### Hi there 👋, I'm Thomas.
+# Hi there 👋, I'm Thomas
 
-#### I'm a software/systems architect, data analytics pipeline engineer, and amateur blockchain/smart contract developer.
+## What I Do
+
+Short version: I'm a dev on the Yahoo Edge Network Data Analytics team.
+
+Long version: I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of network telemetry data coming off Yahoo's Edge backbone. These solutions include:
+
+- Leveraging Hadoop Data File Storage for raw data sets
+- Running ETL pipelines written with Oozie/Pig/Java UDFs
+- Loading data into HBase/Druid
+- Building/deploying internal forks of open source visualization tools like Superset/Turnilo. <-- this is what I primarily work on
+
+## What I've Done
+
+- Aug 2015 - May 2018
+  - Developed secure web app for processing military defense contract proposals/ammendments through multi-phase approve/reject routes and stages.
+  - Revamped core team development process, implementing Agile SOPs, Git, and CI/CD pipelines to increase feature throughput.
+- May 2018 - Dec 2020
+  - Worked on a SQLServer/C#/.Net Core/Angular 4 web application for license/order management.
+  - Built an internal web tool in React/Redux to interface with the internal task management system.
+  - Led development of big data ETL pipeline consuming terabytes of licensing telemetry from an Azure Event Hub using Databricks™/Apache Spark/Scala/PySpark, warehousing enriched data in SQL fact tables for Tableau/PowerBI reports.
+- Jan 2021 - Oct 2022
+  - Built web API (SQLServer/C#/.Net Core) for manufacturing service, allowing manufacturers to import orders, generating parts/production files and tracking through the production process.
+  - Built web API (MongoDB/Typescript/NestJS) for order service, integrating with our Shopify app and allowing 3PS’s to send orders directly to our platform.
+  - Built web portal (React/Redux) for managing tenants, orders, parts, and manufacturing processes
+  - Leveraged CI/CD deployment pipelines (Azure DevOps) to reduce lag time on feature release.
+  - Leveraged event driven architecture to integrate with external authentication, shipping, and order providers
+
+## Stuff I've Used
 
 ---
 
@@ -16,7 +43,7 @@ I'm technically a cloud solutions architect and full stack developer, but I've b
 - ⚛ **Favorite frontend:** React/Redux
 - ⚛ **What I'm Exploring:** GraphQL
 
-I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I'm actively used all of these in my previous startup. **I just wish Stoplight was less expensive to upgrade...**
+I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I'm actively used all of these in my previous startup.
 
 Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep Templates** for cloud resource infra-as-code, and integrating Stoplight into my previous CI for external API modeling/docs.
 
@@ -33,9 +60,9 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
 
 ---
 
+<b>🛠️ Languages and Tools</b>
+<br />
 
-<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-  <br />
   <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img
@@ -85,7 +112,7 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
         height="40"
       />
     </a>
-    <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank">
+    <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bic1ep" target="_blank">
       <img
         src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-bicep/0.8.9/1657103312814/Microsoft.VisualStudio.Services.Icons.Default"
         alt="azurebicep"
@@ -191,19 +218,18 @@ Recently, I've had to pick up **~~Prisma~~ MikroORM/PostgreSQL**, **Azure Bicep 
     </a>
   </p>
 
-
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prototypik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/prototypik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prototypik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prototypik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prototypik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prototypik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/prototypik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prototypik)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prototypik&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prototypik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/prototypik)
+![Profile views](https://gpvc.arturio.dev/tshal0)
 
-<a href="https://app.daily.dev/prototypik"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=586" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
+<a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=586" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
