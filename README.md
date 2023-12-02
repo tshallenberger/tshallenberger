@@ -5,8 +5,10 @@
 ### Short version
 
 **I'm a software engineer on the Yahoo Edge Network Data Analytics team.**
+
 I previously built a dropshipping platform in ecom, connecting merchants to steel manufacturers.
-I deliver end to end web app solutions, usually in the cloud. Cloud SysDesign/Deployment, DevOps, CI/CD, and API/frontend development, usually with some form of authentication.
+
+I deliver end to end web app solutions, usually in the cloud. Cloud SysDesign, DevOps, CI/CD, and API/frontend development, usually with some form of authentication.
 
 ### Long version
 
