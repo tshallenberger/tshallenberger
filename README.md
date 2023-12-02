@@ -54,9 +54,8 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
 <details>
-  <summary></summary>
+  <summary><h2>🛠️ Languages and Tools</h2></summary>
 
 <br />
 
