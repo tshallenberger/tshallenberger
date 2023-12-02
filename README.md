@@ -17,9 +17,8 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 
 **this is what I'm actively working on.*
 
-<h2>🚀 What I've Done</h2>
 <details>
-  <summary></summary>
+  <summary><h2>🚀 What I've Done</h2></summary>
 
 - **Oct 2022 - Present**
   - Modernized our teams data visualization tool build/deployment pipelines with Docker
