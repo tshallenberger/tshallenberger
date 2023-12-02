@@ -1,54 +1,60 @@
 # Hi there 👋, I'm Thomas
 
-## What I Do
+## 🚀 What I Do
 
 ### Short version
 
-**I'm a dev on the Yahoo Edge Network Data Analytics team.**
+**I'm a software engineer on the Yahoo Edge Network Data Analytics team.**
+I previously built a dropshipping platform in ecom, connecting merchants to steel manufacturers.
+I deliver end to end web app solutions, usually in the cloud. Cloud SysDesign/Deployment, DevOps, CI/CD, and API/frontend development, usually with some form of authentication.
 
 ### Long version
 
 I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of telemetry coming off Yahoo's Edge Network. These solutions include:
 
-- Leveraging Hadoop Data File Storage for raw data sets
-- Building/running ETL pipelines written with Oozie/Pig/Java UDFs
-- Loading processed/enriched data into HBase/Druid
-- **Building/deploying internal forks of open source data visualization tools like Apache Superset/Turnilo.***
+- ⛓️ Leveraging Hadoop Data File Storage for raw data sets
+- 💡 Building/running ETL pipelines written with Oozie/Pig/Java UDFs
+- 💎 Loading processed/enriched data into HBase/Druid
+- **🔭 Customizing/building/deploying internal forks of open source data visualization tools like Apache Superset and Turnilo.***
 
 **this is what I'm actively working on.*
+
+- **⚡  Fun fact:** I love powerlifting. Especially deadlifting.
+- **📄 Favorite IDE:** VS Code
+- **🍒 Favorite Backend:** `NestJS` (for now)
+- **⚛  Favorite Frontend:** `React`/`Redux`
+- **🔬 What I'm Exploring:** `Docker`, DevContainers, `Ansible`
+- **🌅 On The Horizon:** I'd love to build something in `Rust`, `Golang`, an iOS app, or a full Shopify app
+- **Cool Tools I've Used:** `Auth0/Okta`, `Postman`, `Stoplight`, and `LaunchDarkly`
 
 <details>
   <summary><h2>🚀 What I've Done</h2></summary>
 
-- **Oct 2022 - Present**
-  - Modernized our teams data visualization tool build/deployment pipelines with Docker
-- **Jan 2021 - Oct 2022**
+- **Yahoo! - Oct 2022 - Present**
+  - Modernized our teams data visualization tool build/deployment pipelines
+  - Updated internal Apache Superset and Turnilo forks, converting build artifacts to Docker, deploys orchestrated with Ansible/podman-kube to on-prem RHEL8 hosts.
+  - Developed Superset/Turnilo workspaces to use git submodules, VS Code devcontainers (Docker), and docker-compose to spin up local dev environments that streamlined our merges from opensource and cut developer onboarding from weeks to minutes.
+  - Dockerized internal web proxy services for deployment.
+- **MyEasyMonogram - Jan 2021 - Oct 2022**
   - Built web API (SQLServer/C#/.Net Core) for manufacturing service, allowing manufacturers to import orders, generating parts/production files and tracking through the production process.
   - Built web API (MongoDB/Typescript/NestJS) for order service, integrating with our Shopify app and allowing 3PS’s to send orders directly to our platform.
   - Built web portal (React/Redux) for managing tenants, orders, parts, and manufacturing processes
   - Leveraged CI/CD deployment pipelines (Azure DevOps) to reduce lag time on feature release.
   - Leveraged event driven architecture to integrate with external authentication, shipping, and order providers
-- **May 2018 - Dec 2020**
+- **Hexagon PPM - May 2018 - Dec 2020**
   - Worked on a SQLServer/C#/.Net Core/Angular 4 web application for license/order management.
   - Built an internal web tool in React/Redux to interface with the internal task management system.
   - Led development of big data ETL pipeline consuming terabytes of licensing telemetry from an Azure Event Hub using Databricks™/Apache Spark/Scala/PySpark, warehousing enriched data in SQL fact tables for Tableau/PowerBI reports.
-- **Aug 2015 - May 2018**
+- **Simtech Inc. - Aug 2015 - May 2018**
   - Developed secure web app for processing military defense contract proposals/ammendments through multi-phase approve/reject routes and stages.
-  - Revamped core team development process, implementing Agile SOPs, Git, and CI/CD pipelines to increase feature throughput.
+  - Revamped core team development process, implementing Agile processes, Git, and CI/CD pipelines to increase feature throughput.
 
-I'm technically a cloud solutions architect and full stack developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and ETL pipelines using Databricks/PySpark. I've also built integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
+On the side, I've built scrapers for the SEC EDGAR site using Azure Function Apps, and CosmosDB server side sprocs. I've written integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
 
 - 🔭 Currently, I'm Dockerizing/containerizing a forked version of Superset for deployment to RHEL8 servers, in order to provide visualization tools to teams at Yahoo
 - 🔭 Previously, I've worked on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production.
 - 🌱 In the past I've used NestJS/(MongoDB|PostgreSQL)/React/Redux for the newer services, and .Net Core/SQL Server for older services.
 - ⚡ Fun fact: I love powerlifting. Specifically deadlifting.
-
-- 📄 **Favorite IDE:** VS Code
-- 🍒 **Favorite backend:** NestJS
-- ⚛ **Favorite frontend:** React/Redux
-- ⚛ **What I'm Exploring:** DevContainers, Ansible
-
-I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I've actively used all of these in my previous startup.
 
 </details>
 
