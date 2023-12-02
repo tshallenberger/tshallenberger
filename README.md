@@ -17,7 +17,9 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 
 **this is what I'm actively working on.*
 
-## What I've Done
+<h2>🚀 What I've Done</h2>
+<details>
+  <summary></summary>
 
 - **Oct 2022 - Present**
   - Modernized our teams data visualization tool build/deployment pipelines with Docker
@@ -35,9 +37,7 @@ I help my team brainstorm and implement solutions for storing, processing, and v
   - Developed secure web app for processing military defense contract proposals/ammendments through multi-phase approve/reject routes and stages.
   - Revamped core team development process, implementing Agile SOPs, Git, and CI/CD pipelines to increase feature throughput.
 
----
-
-I'm technically a cloud solutions architect and full stack developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and data analytics pipelines for big telemetry data sets using Databricks/PySpark. I've also built integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
+I'm technically a cloud solutions architect and full stack developer, but I've built scrapers for the SEC EDGAR site using Azure Function Apps, CosmosDB server side sprocs, and ETL pipelines using Databricks/PySpark. I've also built integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
 
 - 🔭 Currently, I'm Dockerizing/containerizing a forked version of Superset for deployment to RHEL8 servers, in order to provide visualization tools to teams at Yahoo
 - 🔭 Previously, I've worked on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production.
@@ -47,21 +47,18 @@ I'm technically a cloud solutions architect and full stack developer, but I've b
 - 📄 **Favorite IDE:** VS Code
 - 🍒 **Favorite backend:** NestJS
 - ⚛ **Favorite frontend:** React/Redux
-- ⚛ **What I'm Exploring:** DevContainers
+- ⚛ **What I'm Exploring:** DevContainers, Ansible
 
 I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and I've actively used all of these in my previous startup.
 
-## Skills/Tooling (Current)
-
-- Docker
-- Apache Superset
-- Flask
-- Apache Druid
-- Turnilo
+</details>
 
 ---
 
-<b>🛠️ Languages and Tools</b>
+<h2>🛠️ Languages and Tools</h2>
+<details>
+  <summary></summary>
+
 <br />
 
   <p align="left">
@@ -222,9 +219,13 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
     </a>
   </p>
 
+</details>
+
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshal0/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
