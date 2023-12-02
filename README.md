@@ -223,6 +223,8 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
 
 ---
 
+## 👨🏼‍💻 Socials
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshal0/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
@@ -231,9 +233,20 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
+## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/tshal0/github-readme-stats)
+<div>
+  <div>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
+
+  </div>
+  <div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/tshal0/github-readme-stats)
+
+  </div>
+</div>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/tshal0) -->
 
