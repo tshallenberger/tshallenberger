@@ -235,7 +235,10 @@ I'm also a huge fan of: `Auth0`, `Postman`, `Stoplight`, and `LaunchDarkly`, and
 
 ## Stats
 
-<div>
+<div style="
+    display: flex;
+    justify-content: space-between;
+">
   <div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
