@@ -27,14 +27,16 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 - **🌅 On The Horizon:** I'd love to build something in `Rust`, `Golang`, an iOS app, or a full Shopify app
 - **Cool Tools I've Used:** `Auth0/Okta`, `Postman`, `Stoplight`, and `LaunchDarkly`
 
+---
+
 <details>
   <summary><h2>🚀 What I've Done</h2></summary>
 
 - **Yahoo! - Oct 2022 - Present**
   - Modernized our teams data visualization tool build/deployment pipelines
   - Updated internal Apache Superset and Turnilo forks, converting build artifacts to Docker, deploys orchestrated with Ansible/podman-kube to on-prem RHEL8 hosts.
-  - Developed Superset/Turnilo workspaces to use git submodules, VS Code devcontainers (Docker), and docker-compose to spin up local dev environments that streamlined our merges from opensource and cut developer onboarding from weeks to minutes.
-  - Dockerized internal web proxy services for deployment.
+  - Built Apache Superset/Turnilo workspaces that use git submodules, VS Code devcontainers (Docker), and docker-compose to spin up local environments that streamlined our merges from opensource and cut developer onboarding from weeks to minutes.
+  - Converted internal web auth/proxy services from raw Nodejs to Typescript and Dockerized for deployment.
 - **MyEasyMonogram - Jan 2021 - Oct 2022**
   - Built web API (SQLServer/C#/.Net Core) for manufacturing service, allowing manufacturers to import orders, generating parts/production files and tracking through the production process.
   - Built web API (MongoDB/Typescript/NestJS) for order service, integrating with our Shopify app and allowing 3PS’s to send orders directly to our platform.
@@ -51,11 +53,6 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 
 On the side, I've built scrapers for the SEC EDGAR site using Azure Function Apps, and CosmosDB server side sprocs. I've written integrations for Salesforce, Shopify, Auth0, and some awesome tooling around Azure DevOps Build/Release Pipelines.
 
-- 🔭 Currently, I'm Dockerizing/containerizing a forked version of Superset for deployment to RHEL8 servers, in order to provide visualization tools to teams at Yahoo
-- 🔭 Previously, I've worked on building a suite of web app services using NestJS/(MongoDB|PostgreSQL)/React/Redux on Azure with the intention of connecting Shopify merchants to manufacturers, and helping automate steel manufacturing production.
-- 🌱 In the past I've used NestJS/(MongoDB|PostgreSQL)/React/Redux for the newer services, and .Net Core/SQL Server for older services.
-- ⚡ Fun fact: I love powerlifting. Specifically deadlifting.
-
 </details>
 
 ---
@@ -63,8 +60,7 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
 <details>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
 
-<br />
-
+  <br />
   <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img
@@ -233,11 +229,9 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
-
-## Stats
+## 📊 Stats
 
 <div style="display: flex; justify-content: space-between;">
   <div>
@@ -252,6 +246,14 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
   </div>
 </div>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/tshal0) -->
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
+
+---
 
 <a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=586" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
+
+---
+
+<!-- ![Profile views](https://gpvc.arturio.dev/tshal0) -->
