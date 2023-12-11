@@ -2,14 +2,10 @@
 
 ## 🚀 What I Do
 
-### Short version
-
 **I'm a software engineer on the Yahoo Edge Network Data Analytics team.**
 
 I previously built a dropshipping platform in ecom, connecting merchants to steel manufacturers.
 I deliver end to end web app solutions, usually in the cloud. Cloud SysDesign, DevOps, CI/CD, and API/frontend development, usually with some form of authentication.
-
-### Long version
 
 I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of telemetry coming off Yahoo's Edge Network. These solutions include:
 
