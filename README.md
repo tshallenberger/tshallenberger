@@ -2,12 +2,12 @@
 
 ## 🚀 What I Do
 
-**I'm a software engineer on the Yahoo Edge Network Data Analytics team.**
+**I'm a software engineer at Yahoo!**
 
 I previously built a dropshipping platform in ecom, connecting merchants to steel manufacturers.
-I deliver end to end web app solutions, usually in the cloud. Cloud SysDesign, DevOps, CI/CD, and API/frontend development, usually with some form of authentication.
+I deliver end to end web app solutions, usually in the cloud.
 
-I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of telemetry coming off Yahoo's Edge Network. These solutions include:
+I help my team brainstorm and implement solutions for storing, processing, and visualizing petabytes of data. These solutions include:
 
 - ⛓️ Leveraging Hadoop Data File Storage for raw data sets
 - 💡 Building/running ETL pipelines written with Oozie/Pig/Java UDFs
@@ -31,9 +31,9 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 
 - **Yahoo! - Oct 2022 - Present**
   - Modernized our teams data visualization tool build/deployment pipelines
-  - Updated internal Apache Superset and Turnilo forks, converting build artifacts to Docker, deploys orchestrated with Ansible/podman-kube to on-prem RHEL8 hosts.
+  - Updated internal Apache Superset and Turnilo forks, converting build artifacts to Docker, deploys orchestrated with Ansible/podman-kube to RHEL8 hosts.
   - Built Apache Superset/Turnilo workspaces that use git submodules, VS Code devcontainers (Docker), and docker-compose to spin up local environments that streamlined our merges from opensource and cut developer onboarding from weeks to minutes.
-  - Converted internal web auth/proxy services from raw Nodejs to Typescript and Dockerized for deployment.
+  - Converted internal web services from raw Nodejs to Typescript and Dockerized for deployment.
 - **MyEasyMonogram - Jan 2021 - Oct 2022**
   - Built web API (SQLServer/C#/.Net Core) for manufacturing service, allowing manufacturers to import orders, generating parts/production files and tracking through the production process.
   - Built web API (MongoDB/Typescript/NestJS) for order service, integrating with our Shopify app and allowing 3PS’s to send orders directly to our platform.
