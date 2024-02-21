@@ -248,8 +248,7 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
 [![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
 
 ---
-
-<a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/0766200222a64c5fb44967b8f0be5025.png?r=586" width="400" alt="Thomas Shallenberger's Dev Card"/></a>
+<a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/v2/d76204777566402ea0e66ae1a809fc5f.png?r=xob" width="356" alt="Thomas Shallenberger's Dev Card"/></a>
 
 ---
 
