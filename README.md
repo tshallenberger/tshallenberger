@@ -222,9 +222,9 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
 
 ## 👨🏼‍💻 Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshal0/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshal0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshal0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshal0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tshallenberger) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tshallenberger) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tshallenberger/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tshallenberger) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tshallenberger/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tshallenberger)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1389801/tshallenberger) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/valkn0t)
 
 ---
 
@@ -233,23 +233,23 @@ On the side, I've built scrapers for the SEC EDGAR site using Azure Function App
 <div style="display: flex; justify-content: space-between;">
   <div>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshal0&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshallenberger&show_icons=true)
 
   </div>
   <div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshal0)](https://github.com/tshal0/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshallenberger)](https://github.com/tshallenberger/github-readme-stats)
 
   </div>
 </div>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tshal0)](https://github.com/tshal0/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tshallenberger)](https://github.com/tshallenberger/github-profile-trophy)
 
 ---
-<a href="https://app.daily.dev/tshal0"><img src="https://api.daily.dev/devcards/v2/d76204777566402ea0e66ae1a809fc5f.png?r=xob" width="356" alt="Thomas Shallenberger's Dev Card"/></a>
+<a href="https://app.daily.dev/tshallenberger"><img src="https://api.daily.dev/devcards/v2/d76204777566402ea0e66ae1a809fc5f.png?r=xob" width="356" alt="Thomas Shallenberger's Dev Card"/></a>
 
 ---
 
-<!-- ![Profile views](https://gpvc.arturio.dev/tshal0) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/tshallenberger) -->
