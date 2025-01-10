@@ -16,6 +16,13 @@ I help my team brainstorm and implement solutions for storing, processing, and v
 
 **this is what I'm actively working on.*
 
+Here's a Typescript web API I wrote in my downtime: https://github.com/tshallenberger/dropengine-api
+
+(Docs) https://dropengine.stoplight.io/docs/dropengine-api-docs/9dc3425b91579-catalog
+
+Here's some working Terraform I built for another Typescript web app: https://github.com/tshallenberger/optimate/tree/main/terraform
+
+
 - **⚡  Fun fact:** I love powerlifting. Especially deadlifting.
 - **📄 Favorite IDE:** VS Code
 - **🍒 Favorite Backend:** `NestJS` (for now)
